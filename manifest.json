@@ -1,7 +1,7 @@
 {
     "manifest_version": 2,
     "name": "weibo_data",
-    "version": "1.0.2",
+    "version": "1.0.3",
     "description": "获取微博的阅读数、点赞数、评论数、转发数的数据",
     "icons": {
       "128": "img/icon.png"
